@@ -1,0 +1,24 @@
+
+
+header:not(.centered_logo) .header_fixed_right_area {
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 100%;
+    line-height: 20px;
+}
+.tablepress tfoot th, .tablepress thead th {
+    background-color: #F19E47;
+    font-weight: 700;
+    vertical-align: middle;}
+a.color-button.orange { background-color: #ffffff; }
+
+.header_top {
+    z-index: 111;
+    line-height: 26px;}
+
+
+.img.mobile{
+    height:auto;
+    width:100%;
+}
